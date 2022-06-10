@@ -1,0 +1,39 @@
+.header {
+    text-align: center;
+    color: purple;
+    font-size: 42px;
+    font-family: "Papyrus", fantasy;
+}
+
+.links {
+    text-align: center;
+    list-style-type: none;
+    font-family: "Verdana", sans-serif;
+}
+
+.recipe-headers {
+    outline-style: solid;
+    display: inline;
+}
+
+.ingredients {
+    outline-style: solid;
+    display: inline-block;
+    background-color: rgba(139, 139, 139, 0.314);
+}
+
+.lobster-roll {
+    background-color: #3d68bd;
+}
+
+.shrimp-scampi {
+    background-color: #c52b2b;
+}
+
+.brownies {
+    background-color: #d0cb3b;
+}
+
+.body {
+    font-family: "Verdana", sans-serif;
+}
